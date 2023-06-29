@@ -1,0 +1,3 @@
+to implement heap management scheme (use a doubly linked list and the first
+fit allocation strategy). Implement the ‘allocate’ and ‘free’ functions. Ensure that adjacent free
+blocks are merged together.
